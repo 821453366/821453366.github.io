@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mahuanfy.github.io</id>
+    <title>mahuanfy</title>
+    <updated>2019-09-06T14:23:09.132Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mahuanfy.github.io"/>
+    <link rel="self" href="https://mahuanfy.github.io/atom.xml"/>
+    <subtitle>&lt;h1&gt;个人笔记&lt;/h1&gt;</subtitle>
+    <logo>https://mahuanfy.github.io/images/avatar.png</logo>
+    <icon>https://mahuanfy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, mahuanfy</rights>
+    <entry>
+        <title type="html"><![CDATA[ThoughtWorks文化课线下培训 — 总结]]></title>
+        <id>https://mahuanfy.github.io/post/thoughtworks-culture-cultivate</id>
+        <link href="https://mahuanfy.github.io/post/thoughtworks-culture-cultivate">
+        </link>
+        <updated>2019-09-06T14:21:38.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1616232-1b9f43227a80f49d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="一-culture">一、 Culture</h3>
+<p>刚来的第一节培训内容就是文化课培训，从文化课培训中我们了解到了ThoughtWorks公司的公司文化，大概分为以下几点：</p>
+<ul>
+<li>
+<h5 id="公司的由来">公司的由来</h5>
+</li>
+</ul>
+<ol>
+<li>由Roy Singham于20世纪80年代后期创⽴</li>
+<li>到如今的5000+⼈，14个国家，40间办公室</li>
+<li>专业IT服务型公司</li>
+</ol>
+<ul>
+<li>
+<h5 id="3-pillars">3 PILLARS</h5>
+</li>
+</ul>
+<p><em>3 PILLARS 即是公司的三大支柱，一直推动着公司的发展。</em></p>
+<ol>
+<li>经营可持续的业务</li>
+<li>推动IT变⾰，追求软件卓越</li>
+<li>积极提倡社会和经济公正</li>
+</ol>
+<ul>
+<li>
+<h5 id="使命">使命</h5>
+</li>
+</ul>
+<p>通过软件创造⼈类更美好的明天，倡导社会责任感，创造公平公正的经济环境。</p>
+<h3 id="二-my-tw-journey">二、My TW Journey</h3>
+<p>听了公司同事的分享，让我了解到公司对我们新人有很多培训和发展的机会，入职前培训、入职前的小buddy指导、TWU一场异国学习之旅、入职后培训等等。</p>
+<p>公司中有两个文化特别的吸引人:</p>
+<ul>
+<li>Open：个⼈开放学习交流，公司信息透明</li>
+<li>Feedback：帮助他⼈和公司成⻓</li>
+</ul>
+<h3 id="三-agile-methodology-or-agile-responsibilities">三、Agile Methodology or Agile Responsibilities</h3>
+<p>第三阶段是敏捷相关的内容，之前我只是听过，可能实习过程中也应用过，但是对于概念还是不清晰，通过这次培训更加深入的了解到了敏捷，通过分享过程中的小游戏，更是让我们体会到了敏捷的好处。<br>
+<strong>敏捷宣言</strong></p>
+<blockquote>
+<p><strong>个体和互动</strong>高于流程和工具<br>
+<strong>工作的软件</strong>高于详尽的文档<br>
+<strong>客户合作</strong>高于合同谈判<br>
+<strong>响应变化</strong>高于遵循计划</p>
+</blockquote>
+<p><strong>敏捷中的方法</strong></p>
+<ul>
+<li>Scrum</li>
+<li>极限编程(XP)</li>
+<li>站会</li>
+<li>迭代会议</li>
+<li>回顾会议</li>
+<li>代码评审</li>
+</ul>
+<h3 id="四-feedback">四、Feedback</h3>
+<blockquote>
+<p>帮助他人，提升自己，追求卓越!</p>
+</blockquote>
+<p>Feedback作为公司特别看中的文化之一，	从中我也学会到了如何给别人提反馈，以及如何接受别人给的反馈。</p>
+<p>当你给别人提反馈时要注意：</p>
+<ul>
+<li>基于⾏行行为</li>
+<li>对话</li>
+<li>不不要激进</li>
+<li>安全私⼈人的环境</li>
+<li>越早越好</li>
+<li>不不要太多</li>
+<li>可执⾏行行的ACTION</li>
+<li>⽀支持对⽅方</li>
+</ul>
+<p>当我们接受别人的反馈时要注意：</p>
+<ul>
+<li>不不要抗拒</li>
+<li>有效倾听</li>
+<li>表达谢谢</li>
+<li>采取⾏行行动</li>
+</ul>
+<h3 id="五-retro">五、Retro</h3>
+<p>迭代回顾会，通过这次回顾，我们可以看到我们工作中做的好的部分，做的不好的部分，以及待改正的部分，最后会提出一个action来分配到人。</p>
+<p>会议过程中需要注意到的问题：</p>
+<ul>
+<li>对事不对人</li>
+<li>要营造一个开放、自由、正向的气氛</li>
+<li>用实例来代替感觉</li>
+<li>action必须要有owner，并且在下次迭代能看到成效</li>
+</ul>
+<h3 id="六-小buddy见面会">六、小buddy见面会</h3>
+<p>今天一天充实的活动接近了尾声，在整个活动的过程中认识了好多小伙伴，大家都收获满满。活动最后一项是见小buddy+聚餐，希望在以后的工作学习中可以和我的小buddy一块成长。</p>
+]]></content>
+    </entry>
+</feed>
